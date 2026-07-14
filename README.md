@@ -40,8 +40,8 @@ to populate.
 
 ## Legacy source
 
-The original C/X11 implementation remains in the repository as historical
-reference but is not part of the Swift package.
+<!-- markdownlint-disable-next-line MD013 -->
+The original C/X11 implementation lives in [`original/`](original) as historical reference and is not part of the Swift package.
 
 ## License
 

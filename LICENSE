@@ -47,4 +47,4 @@ IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 The preceding Sun Microsystems terms govern the retained historical C/X11
-source. The original notice is preserved in [maze.c](maze.c).
+source. The original notice is preserved in [original/maze.c](original/maze.c).
